@@ -1,0 +1,330 @@
+17-12-2024 10:59:44 - parse_ini_file(../.env): Failed to open stream: No such file or directory in C:\Users\Elina\Desktop\eshop\core\init.php:38
+17-12-2024 10:59:44 - Eshop::init(): Argument #1 ($dbConfig) must be of type array, false given, called in C:\Users\Elina\Desktop\eshop\core\init.php on line 39 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:12
+17-12-2024 10:59:51 - parse_ini_file(../.env): Failed to open stream: No such file or directory in C:\Users\Elina\Desktop\eshop\core\init.php:38
+17-12-2024 10:59:51 - Eshop::init(): Argument #1 ($dbConfig) must be of type array, false given, called in C:\Users\Elina\Desktop\eshop\core\init.php on line 39 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:12
+17-12-2024 11:02:59 - parse_ini_file(../.env): Failed to open stream: No such file or directory in C:\Users\Elina\Desktop\eshop\core\init.php:38
+17-12-2024 11:02:59 - Undefined constant "DB" in C:\Users\Elina\Desktop\eshop\core\init.php:39
+17-12-2024 11:13:13 - Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'eshop' in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:15
+17-12-2024 11:13:14 - Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'eshop' in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:15
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:49 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:50 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:51 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:52 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:53 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:53 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:58 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:59 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:13:59 - rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\app\__router.php:7
+17-12-2024 11:14:45 - SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:30
+17-12-2024 11:15:59 - SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.sp_get_catalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:30
+17-12-2024 11:26:17 - SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetItemsFromCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:30
+17-12-2024 11:31:49 - SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetItemsFromCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:30
+17-12-2024 11:38:36 - Call to a member function query() on null in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:26
+17-12-2024 11:38:37 - Call to a member function query() on null in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:26
+17-12-2024 11:40:04 - Undefined variable $db in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:28
+17-12-2024 11:40:04 - Call to a member function query() on null in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:28
+17-12-2024 11:45:12 - Too few arguments to function Eshop::getItemsFromCatalog(), 0 passed in C:\Users\Elina\Desktop\eshop\app\catalog.php on line 2 and exactly 1 expected in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:14
+17-12-2024 11:46:08 - Too few arguments to function Eshop::getItemsFromCatalog(), 0 passed in C:\Users\Elina\Desktop\eshop\app\catalog.php on line 2 and exactly 1 expected in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:14
+17-12-2024 11:46:31 - Too few arguments to function Eshop::getItemsFromCatalog(), 0 passed in C:\Users\Elina\Desktop\eshop\app\catalog.php on line 2 and exactly 1 expected in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:14
+17-12-2024 11:52:31 - Не удалось прочитать каталог: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:37
+17-12-2024 11:55:05 - Не удалось прочитать каталог: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:37
+17-12-2024 11:55:06 - Не удалось прочитать каталог: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetCatalog does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:37
+17-12-2024 13:41:17 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:17 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:19 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:19 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:23 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:23 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:26 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:26 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:29 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:41:29 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:42:41 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:42:41 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:42:45 - session_start(): open(session\sess_0jfkbvp41q3bb979qagiqo1r8g, O_RDWR) failed: No such file or directory (2) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 13:42:45 - session_start(): Failed to read session data: files (path: session) in C:\Users\Elina\Desktop\eshop\core\init.php:46
+17-12-2024 16:38:25 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\core\init.php:48
+17-12-2024 16:38:25 - str_starts_with(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:48
+17-12-2024 16:38:26 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\core\init.php:48
+17-12-2024 16:38:26 - str_starts_with(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:48
+17-12-2024 16:38:28 - Undefined variable $path in C:\Users\Elina\Desktop\eshop\core\init.php:48
+17-12-2024 16:38:28 - str_starts_with(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:48
+19-12-2024 09:16:21 - Undefined constant PDO::ATTR_MODE in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:7
+19-12-2024 09:16:55 - Undefined constant PDO::ATTR_MODE in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:7
+19-12-2024 09:17:01 - Undefined constant PDO::ATTR_MODE in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:7
+19-12-2024 09:18:15 - Call to undefined method Eshop::isAdmin() in C:\Users\Elina\Desktop\eshop\core\init.php:50
+19-12-2024 09:18:23 - Call to undefined method Eshop::isAdmin() in C:\Users\Elina\Desktop\eshop\core\init.php:50
+19-12-2024 09:18:23 - Call to undefined method Eshop::isAdmin() in C:\Users\Elina\Desktop\eshop\core\init.php:50
+19-12-2024 09:19:01 - Call to undefined method Book::getTitle() in C:\Users\Elina\Desktop\eshop\app\catalog.php:26
+19-12-2024 09:19:06 - Call to undefined method Book::getTitle() in C:\Users\Elina\Desktop\eshop\app\catalog.php:26
+19-12-2024 09:26:26 - Eshop::getItemsFromBasket(): Return value must be of type Traversable|array, none returned in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:28
+19-12-2024 09:56:20 - Eshop::getItemsFromBasket(): Return value must be of type Traversable|array, none returned in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:28
+19-12-2024 10:21:11 - syntax error, unexpected identifier "NULL", expecting "," or ";" in C:\Users\Elina\Desktop\eshop\app\basket.php:9
+23-12-2024 08:50:58 - Undefined variable $id in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:3
+23-12-2024 08:50:58 - Eshop::addItemToBasket(): Argument #1 ($id) must be of type int, null given, called in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php on line 3 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:25
+25-12-2024 08:51:25 - Undefined array key "author" in C:\Users\Elina\Desktop\eshop\core\Book.class.php:14
+25-12-2024 08:51:25 - Undefined array key "price" in C:\Users\Elina\Desktop\eshop\core\Book.class.php:15
+25-12-2024 08:51:25 - Undefined array key "pubyear" in C:\Users\Elina\Desktop\eshop\core\Book.class.php:16
+25-12-2024 08:51:25 - Undefined array key "id" in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:4
+25-12-2024 08:54:15 - Undefined array key "id" in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:3
+25-12-2024 08:54:39 - Undefined array key "id" in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:3
+25-12-2024 08:54:39 - Undefined variable $id in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:5
+25-12-2024 08:54:39 - Eshop::addItemToBasket(): Argument #1 ($id) must be of type int, null given, called in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php on line 5 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:25
+25-12-2024 08:57:48 - Undefined array key "id" in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:3
+25-12-2024 08:57:48 - Undefined variable $id in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php:5
+25-12-2024 08:57:48 - Eshop::addItemToBasket(): Argument #1 ($id) must be of type int, null given, called in C:\Users\Elina\Desktop\eshop\app\add_item_to_basket.php on line 5 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:25
+25-12-2024 09:00:04 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetItemsForBasket does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:39
+25-12-2024 09:00:04 - Call to a member function fetchAll() on false in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:40
+25-12-2024 09:01:14 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetItemsFormBasket does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:39
+25-12-2024 09:01:14 - Call to a member function fetchAll() on false in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:40
+25-12-2024 09:01:36 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetItemsFromBasket does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:39
+25-12-2024 09:01:36 - Call to a member function fetchAll() on false in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:40
+25-12-2024 11:46:56 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:46:56 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:47:34 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:47:34 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:47:36 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:47:36 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:17 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:17 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:19 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:19 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:27 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:27 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:27 - Call to undefined method Eshop::exec() in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:69
+25-12-2024 11:48:28 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:28 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:29 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:29 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:31 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:31 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:33 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:48:33 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:50:01 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:48
+25-12-2024 11:50:01 - parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:48
+25-12-2024 11:50:01 - Undefined array key "REQUEST_URL" in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:50:01 - preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\init.php:50
+25-12-2024 11:52:21 - Call to undefined method Eshop::exec() in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:69
+25-12-2024 11:54:27 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:79
+25-12-2024 12:04:13 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE eshop.spGetAdmin does not exist in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:103
+25-12-2024 12:04:13 - Call to a member function fetchAll() on false in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:103
+25-12-2024 12:05:29 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:33 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:36 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:40 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:46 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:49 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:05:52 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:52 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:52 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:05:52 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:07:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:40 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:43 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:43 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:43 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:07:57 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:08:00 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:00 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:00 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:00 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:08:03 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:03 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:03 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:03 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:08:06 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:06 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:06 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:08:06 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:09 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:12 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:12 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:12 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:12 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:16 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:16 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:16 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:16 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:19 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:19 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:19 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:19 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:23 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:23 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:23 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:23 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:26 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:26 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:26 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:26 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:30 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:30 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:30 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:30 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:33 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:33 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:16:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:36 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:16:36 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:120
+25-12-2024 12:18:35 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:35 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:35 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:38 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:38 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:38 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:18:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Cleaner.class.php:10
+25-12-2024 12:34:43 - Creation of dynamic property User::$hash is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:103
+25-12-2024 12:36:46 - Creation of dynamic property User::$hash is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:103
+25-12-2024 12:39:54 - Creation of dynamic property User::$hash is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:105
+25-12-2024 12:39:54 - password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:135
+25-12-2024 12:40:49 - Creation of dynamic property User::$hash is deprecated in C:\Users\Elina\Desktop\eshop\core\Eshop.class.php:105
+25-12-2024 12:43:09 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
+25-12-2024 12:43:12 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
+25-12-2024 12:43:16 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
+25-12-2024 12:43:19 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
+25-12-2024 12:43:22 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
+25-12-2024 12:43:26 - session_start(): Ignoring session_start() because a session is already active (started from C:\Users\Elina\Desktop\eshop\core\init.php on line 46) in C:\Users\Elina\Desktop\eshop\app\login.php:2
